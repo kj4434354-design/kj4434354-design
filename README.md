@@ -8,7 +8,7 @@
 
 🌱 Currently learning Machine Learning, Deep Learning, and Full-Stack Development
 
-📫 Reach me at: kj4434354@gmail.com
+📫 Reach me at:kj4434354@gmail.com
 
 ---
 
@@ -49,7 +49,7 @@
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/madhumitha-j-64aa24323)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/kj4434354-design)
 
