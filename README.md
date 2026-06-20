@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋 I'm Madhumitha Jayaraman
 
-<!--
-**kj4434354-design/kj4434354-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Artificial Intelligence and Data Science Student
 
-Here are some ideas to get you started:
+### Skills
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
+
+![Android](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android)
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kj4434354-design&show_icons=true)
+
+### Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kj4434354-design&layout=compact)
+
+### Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=kj4434354-design)
+
+## Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kj4434354-design)](https://github.com/ryo-ma/github-profile-trophy)
