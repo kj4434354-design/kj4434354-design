@@ -8,7 +8,7 @@
 
 🌱 Currently learning Machine Learning, Deep Learning, and Full-Stack Development
 
-📫 Reach me at: jmadhumitha862@gmail.com
+📫 Reach me at: kj4434354@gmail.com
 
 ---
 
