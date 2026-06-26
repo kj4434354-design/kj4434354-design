@@ -19,7 +19,7 @@
 - 🌱 Currently learning Machine Learning, Deep Learning, and Full-Stack Development
 - 🚀 Building innovative projects to enhance technical and problem-solving skills
 - 🤝 Open to Internships and Collaboration Opportunities
-- 📫 Reach me at: **jmadhumitha862@gmail.com**
+- 📫 Reach me at: **kj4434354@gmail.com**
 
 ---
 
