@@ -90,7 +90,7 @@ Responsive websites built using HTML, CSS, JavaScript, and modern web technologi
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
   
-  <a href="https://www.linkedin.com/in/madhumitha-j-64aa24323">
+  <a href="https://www.linkedin.com/in/madhumitha-jayaraman-64aa24323">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   
