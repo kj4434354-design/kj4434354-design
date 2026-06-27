@@ -54,7 +54,8 @@
 - Java Training Certification
 - Web Development Internship
 - AI & Data Science Certifications
-
+- Python Certification
+- Google Cloud Computing Certification
 ---
 
 ## 📂 Projects
