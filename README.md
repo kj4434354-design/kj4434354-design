@@ -80,10 +80,8 @@ kj4434354@gmail.com
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kj4434354-design&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kj4434354-design&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kj4434354-design&show_icons=true&theme=tokyonight&cache_seconds=86400" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kj4434354-design&layout=compact&theme=tokyonight&cache_seconds=86400" height="170"/>
 
 </p>
 
@@ -103,7 +101,7 @@ kj4434354@gmail.com
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kj4434354-design&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+<img src=https://github-profile-trophy.vercel.app/?username=kj4434354-design
 
 </p>
 
