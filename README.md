@@ -292,3 +292,33 @@ Become an **AI Engineer / Software Engineer** and contribute to impactful produc
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:1B1464,50:6C63FF,75:8A2BE2,100:00C9FF&height=120&section=footer"/>
 
 </div>
+# 🐍 Contribution Snake (Optional Premium Animation)
+
+<div align="center">
+
+![snake gif](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# 🎮 GitHub Activity Extras
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+
+</div>
+
+---
+
+# 💎 Developer Mindset
+
+<div align="center">
+
+```text
+✔ Learn → Build → Break → Fix → Improve → Repeat
+
+✔ Consistency beats intensity
+
+✔ Real developers don’t fear bugs — they debug
