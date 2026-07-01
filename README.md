@@ -1,107 +1,188 @@
-<h1 align="center">Hi 👋, I'm Madhumitha Jayaraman</h1>
+<div align="center">
 
-<h3 align="center">Artificial Intelligence & Data Science Student</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Madhumitha%20Jayaraman&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20%7C%20Data%20Science%20Student&descAlignY=58"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Android+Developer;Machine+Learning+Enthusiast;Aspiring+Software+Developer;Open+to+Internships+and+Opportunities" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi+👋+I'm+Madhumitha+Jayaraman;Artificial+Intelligence+%26+Data+Science+Student;Machine+Learning+Enthusiast;Android+Developer;Java+%7C+Python+%7C+SQL;Future+Software+Engineer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
-<p align="center">
-  Passionate about Artificial Intelligence, Data Science, Android Development, and Software Development.
-</p>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
+
+</div>
 
 ---
 
-## 👩‍💻 About Me
+# 💫 About Me
 
-- 🎓 B.Tech Artificial Intelligence & Data Science Student
-- 💡 Passionate about AI, Data Science, Android Development, and Software Development
-- 🌱 Currently learning Machine Learning, Deep Learning, and Full-Stack Development
-- 🚀 Building innovative projects to enhance technical and problem-solving skills
-- 🤝 Open to Internships and Collaboration Opportunities
-- 📫 Reach me at: **kj4434354@gmail.com**
+🎓 B.Tech in Artificial Intelligence and Data Science
 
----
+💻 Passionate about
 
-## 🚀 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-## 📚 Currently Learning
-
+- Artificial Intelligence
 - Machine Learning
 - Deep Learning
 - Data Science
-- Full-Stack Development
 - Android Development
+- Full Stack Development
+
+🌱 Currently Learning
+
+- Spring Boot
+- Machine Learning
+- Deep Learning
+- Cloud Computing
+- Data Structures & Algorithms
+
+🚀 Goal
+
+Become an AI Engineer and Software Developer while contributing to impactful real-world projects.
+
+📫 **Email**
+
+```
+kj4434354@gmail.com
+```
 
 ---
 
-## 🏆 Certifications
-
-- Java Training Certification
-- Web Development Internship
-- AI & Data Science Certifications
-- Python Certification
-- Google Cloud Computing Certification
----
-
-## 📂 Projects
-
-### 🤖 AI Interview Assistant
-An AI-powered interview preparation platform designed to help users practice and improve interview skills.
-
-### 📱 Android Applications
-Android applications developed using Java and Android Studio.
-
-### 🌐 Web Development Projects
-Responsive websites built using HTML, CSS, JavaScript, and modern web technologies.
-
----
-
-## 📊 GitHub Stats
+# 🌐 Connect with Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kj4434354-design&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kj4434354-design&theme=tokyonight" height="170"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kj4434354-design&layout=compact&theme=tokyonight"/>
-</p>
+<a href="https://www.linkedin.com/in/madhumitha-j-64aa24323">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
----
+<a href="https://github.com/kj4434354-design">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/kj4434354-design">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/madhumitha-jayaraman-64aa24323">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  
-  <a href="mailto:jmadhumitha862@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-  </a>
 </p>
 
 ---
 
+# 💻 Tech Stack
+
 <p align="center">
-  ⭐️ From <b>Madhumitha Jayaraman</b> | Artificial Intelligence & Data Science Student
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,mysql,git,github,androidstudio,vscode,spring,flutter,firebase"/>
+
 </p>
+
+---
+
+# 🚀 Currently Working On
+
+```text
+📚 Machine Learning
+📱 Android Apps
+🌐 Spring Boot
+☁ Cloud Computing
+💡 AI Projects
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kj4434354-design&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kj4434354-design&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=kj4434354-design&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kj4434354-design&theme=tokyonight&no-frame=true&column=4"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kj4434354-design&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake Animation
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/kj4434354-design/kj4434354-design/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# ⚡ Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kj4434354-design&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kj4434354-design&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kj4434354-design&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kj4434354-design&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kj4434354-design&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🎯 Career Interests
+
+✨ Artificial Intelligence
+
+✨ Machine Learning
+
+✨ Deep Learning
+
+✨ Data Science
+
+✨ Software Engineering
+
+✨ Android Development
+
+✨ Cloud Computing
+
+✨ Full Stack Development
+
+---
+
+# 💡 Quote
+
+> **"Success is built one commit at a time."**
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=kj4434354-design&style=for-the-badge&color=blue"/>
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=140&section=footer"/>
+
+</div>
