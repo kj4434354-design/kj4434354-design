@@ -1,75 +1,102 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=👋+Hi,+I'm+Madhumitha+J;Artificial+Intelligence+Engineer;Machine+Learning+Enthusiast;Building+Intelligent+Solutions" />
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> MADHUMITHA J
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=AI+CONTROL+SYSTEM+ONLINE;Artificial+Intelligence+Engineer;Machine+Learning+Explorer;Python+Developer;Welcome+to+my+Workspace" />
 
-![](https://img.shields.io/badge/STATUS-ONLINE-7C3AED?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/MODE-LEARNING-000000?style=for-the-badge&logo=python)
-![](https://img.shields.io/badge/FOCUS-AI%20%7C%20ML%20%7C%20DATA%20SCIENCE-A855F7?style=for-the-badge)
+![](https://img.shields.io/badge/AI%20CORE-ONLINE-8B5CF6?style=for-the-badge)
+![](https://img.shields.io/badge/STATUS-ACTIVE-black?style=for-the-badge)
+![](https://img.shields.io/badge/PYTHON-READY-6D28D9?style=for-the-badge)
 
 </div>
 
 ---
 
-## ⚡ System Information
-
-```yaml
-Name      : Madhumitha J
-Role      : AI Engineer
-Status    : 🟣 Online
-Location  : India
-Language  : Python
-Focus     : Artificial Intelligence
-Mission   : Build intelligent systems
-```
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,mysql,vscode,linux"/>
-
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kj4434354-design&show_icons=true&theme=midnight-purple&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kj4434354-design&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-</p>
-
----
-
-<div align="center">
-
-### 🟣 AI STATUS
+# 🛰 SYSTEM DASHBOARD
 
 ```text
-█████████████████████ 100%
-
-SYSTEM      ▸ ONLINE
-AI CORE     ▸ ACTIVE
-LEARNING    ▸ RUNNING
-PROJECTS    ▸ BUILDING...
+╔════════════════════════════════════════════════════╗
+║  USER          : Madhumitha J                     ║
+║  ROLE          : AI Engineer                      ║
+║  STATUS        : ● ONLINE                         ║
+║  AI CORE       : ACTIVE                           ║
+║  CURRENT MODE  : BUILD • LEARN • EXPLORE          ║
+║  LOCATION      : India                            ║
+╚════════════════════════════════════════════════════╝
 ```
 
-</div>
+---
+
+# ⚡ TECHNOLOGY MATRIX
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,git,github,mysql,vscode,linux"/>
+
+</p>
+
+---
+
+# 📊 AI ANALYTICS
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kj4434354-design&show_icons=true&theme=midnight-purple&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kj4434354-design&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</p>
+
+---
+
+# ⚙ ACTIVE MODULES
+
+```text
+[██████████████████] Artificial Intelligence
+
+[████████████████░░] Machine Learning
+
+[██████████████░░░░] Deep Learning
+
+[███████████████░░░] Data Science
+
+[█████████████████░] Python
+```
+
+---
+
+# 🎯 CURRENT OBJECTIVES
+
+🔹 Build AI applications
+
+🔹 Develop Machine Learning models
+
+🔹 Explore Deep Learning
+
+🔹 Contribute to Open Source
+
+🔹 Continuously improve technical skills
+
+---
+
+# 🌐 NETWORK
+
+<p align="center">
+
+<a href="https://github.com/kj4434354-design">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/madhumitha-jayaraman-64aa24323">
+<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### 🌐 Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/kj4434354-design)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/madhumitha-jayaraman-64aa24323)
+### 💜 "Design. Build. Learn. Repeat."
 
 </div>
