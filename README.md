@@ -1,76 +1,51 @@
-<div align="center">
-
-# 🤖 J.A.R.V.I.S
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Welcome+to+Madhumitha's+AI+Lab;Artificial+Intelligence+Explorer;Building+the+Future+with+Python;System+Status:+ONLINE+✓" />
-
-</div>
-
----
-
-## ⚡ SYSTEM STATUS
-
-```text
-╔════════════════════════════════════╗
-║ 🤖 AI CORE        ▰▰▰▰▰▰▰▰▰ 100% ║
-║ 🟢 STATUS         ONLINE          ║
-║ 👤 USER           Madhumitha J    ║
-║ 💻 ROLE           AI Explorer     ║
-║ 🌍 LOCATION       India           ║
-║ 🎯 MODE           BUILD • LEARN   ║
-╚════════════════════════════════════╝
-```
-
----
-
-## 🧠 CORE MODULES
+<h1 align="center">Hi 👋, I'm Madhumitha J</h1>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,mysql,vscode,linux"/>
+  <a href="https://github.com/kj4434354-design">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Learner;Python+Developer;Building+Projects+That+Matter" />
+  </a>
+</p>
+
+<p align="center">
+Passionate about Artificial Intelligence, Machine Learning, and Data Science.<br>
+I enjoy building practical projects, exploring emerging technologies, and continuously improving my skills.
 </p>
 
 ---
 
-## 📡 AI ANALYTICS
+## 🚀 About Me
 
-<p align="center">
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🐍 Building projects with Python
+- 📊 Exploring Data Science and Analytics
+- 🌱 Always learning something new
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kj4434354-design&show_icons=true&theme=transparent&title_color=00E5FF&text_color=FFFFFF&icon_color=00E5FF&hide_border=true"/>
+## 🛠 Tech Stack
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kj4434354-design&layout=compact&theme=transparent&title_color=00E5FF&text_color=FFFFFF&hide_border=true"/>
-
+<p>
+<img src="https://skillicons.dev/icons?i=python,git,github,mysql,vscode" />
 </p>
 
----
-
-## ⚙️ CURRENT MISSION
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 📊 Data Science
-- 🐍 Python Development
-- 🚀 Building Useful Projects
-
----
-
-## 🌐 CONNECT
+## 📈 GitHub Statistics
 
 <p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kj4434354-design&show_icons=true&theme=default&hide_border=true"/>
 
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kj4434354-design&layout=compact&theme=default&hide_border=true"/>
+</p>
+
+## 🌐 Connect
+
+<p>
 <a href="https://github.com/kj4434354-design">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/madhumitha-jayaraman-64aa24323">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
-<div align="center">
-
-### 💠 "Artificial Intelligence isn't the future—it's what I'm building toward."
-
-</div>
+> *"Learning consistently. Building with purpose."*
