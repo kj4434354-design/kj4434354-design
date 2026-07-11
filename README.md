@@ -1,46 +1,29 @@
-⚔️ 𝗠𝗔𝗗𝗛𝗨𝗠𝗜𝗧𝗛𝗔 𝗝
+# 👋 Hi, I'm Madhumitha J
 
-> SYSTEM INITIALIZED...
-> WELCOME, PLAYER.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Explorer;Machine+Learning+Enthusiast;Data+Science+Learner;Welcome+to+my+GitHub!"/>
+</p>
 
-👤 Profile
+## 🚀 Tech Stack
 
-Name: Madhumitha J
-Role: AI Explorer
-Focus:
-  - Artificial Intelligence
-  - Machine Learning
-  - Data Science
-Status: Leveling Up
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,mysql,vscode" />
+</p>
 
-⚡ Skills
+## 📊 GitHub Stats
 
-🐍 Python            ██████████
-🤖 AI                ███████░░░
-🧠 Machine Learning  ██████░░░░
-📊 Data Science      ██████░░░░
-🌱 Git & GitHub      ████████░░
-🗄️ SQL               ████░░░░░░
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kj4434354-design&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kj4434354-design&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-🎯 Current Mission
+## 🌐 Connect
 
-[✓] Learn consistently
-[✓] Build real-world projects
-[✓] Explore new technologies
-[✓] Contribute to open source
-[✓] Grow one commit at a time
-
-📈 System Log
-
-Experience      █████████░ 90%
-Creativity      ██████████ 100%
-Curiosity       ██████████ 100%
-Discipline      ████████░░ 80%
-
-Next Level → Always Loading...
-
-«"Every project is a new quest. Every commit earns experience."»
-
----
-
-⭐ Thanks for visiting my profile. Let's keep building.
+<p align="center">
+  <a href="https://github.com/kj4434354-design">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/madhumitha-jayaraman-64aa24323">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+</p>
