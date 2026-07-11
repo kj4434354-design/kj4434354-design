@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Madhumitha Jayaraman</h1>
 
 <h3 align="center">Artificial Intelligence & Data Science Student</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kj4434354-design&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Android+Developer;Machine+Learning+Enthusiast;Aspiring+Software+Developer;Open+to+Internships+and+Opportunities" />
@@ -11,6 +14,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kj4434354-design&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
 
 ## 👩‍💻 About Me
 
