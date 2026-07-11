@@ -73,7 +73,7 @@ Responsive websites built using HTML, CSS, JavaScript, and modern web technologi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kj4434354-design&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kj4434354-design&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
