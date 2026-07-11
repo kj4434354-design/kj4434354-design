@@ -19,7 +19,7 @@
 - 🌱 Currently learning Machine Learning, Deep Learning, and Full-Stack Development
 - 🚀 Building innovative projects to enhance technical and problem-solving skills
 - 🤝 Open to Internships and Collaboration Opportunities
-- 📫 Reach me at: **jmadhumitha862@gmail.com**
+- 📫 Reach me at: **jmadhumitha863@gmail.com**
 
 ---
 
@@ -90,11 +90,11 @@ Responsive websites built using HTML, CSS, JavaScript, and modern web technologi
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
   
-  <a href="https://www.linkedin.com/in/madhumitha-j-64aa24323">
+  <a href="https://www.linkedin.com/in/madhumitha-jayaraman-64aa24323">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   
-  <a href="mailto:jmadhumitha862@gmail.com">
+  <a href="mailto:jmadhumitha863@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
