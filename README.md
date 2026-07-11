@@ -1,71 +1,76 @@
-<h1 align="center">Hi 👋, I'm Madhumitha J</h1>
+<div align="center">
+
+# 🤖 J.A.R.V.I.S
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=Welcome+to+Madhumitha's+AI+Lab;Artificial+Intelligence+Explorer;Building+the+Future+with+Python;System+Status:+ONLINE+✓" />
+
+</div>
+
+---
+
+## ⚡ SYSTEM STATUS
+
+```text
+╔════════════════════════════════════╗
+║ 🤖 AI CORE        ▰▰▰▰▰▰▰▰▰ 100% ║
+║ 🟢 STATUS         ONLINE          ║
+║ 👤 USER           Madhumitha J    ║
+║ 💻 ROLE           AI Explorer     ║
+║ 🌍 LOCATION       India           ║
+║ 🎯 MODE           BUILD • LEARN   ║
+╚════════════════════════════════════╝
+```
+
+---
+
+## 🧠 CORE MODULES
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Explorer;Machine+Learning+Enthusiast;Python+Developer;Always+Learning+Something+New+🚀" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/kj4434354-design">
-    <img src="https://img.shields.io/github/followers/kj4434354-design?style=for-the-badge&logo=github&label=Followers&color=7F3FBF"/>
-  </a>
-  <a href="https://github.com/kj4434354-design">
-    <img src="https://img.shields.io/github/stars/kj4434354-design?style=for-the-badge&logo=github&label=Stars&color=7F3FBF"/>
-  </a>
-  <a href="https://www.linkedin.com/in/madhumitha-jayaraman-64aa24323">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=python,git,github,mysql,vscode,linux"/>
 </p>
 
 ---
 
-## 🚀 About Me
-
-✨ Passionate about Artificial Intelligence and Machine Learning
-
-🐍 Learning Python by building real-world projects
-
-📊 Exploring Data Science and intelligent systems
-
-🌱 Believer in continuous learning and improvement
-
----
-
-## 💻 Tech Stack
+## 📡 AI ANALYTICS
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,mysql,vscode,linux" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kj4434354-design&show_icons=true&theme=transparent&title_color=00E5FF&text_color=FFFFFF&icon_color=00E5FF&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kj4434354-design&layout=compact&theme=transparent&title_color=00E5FF&text_color=FFFFFF&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📈 GitHub Analytics
+## ⚙️ CURRENT MISSION
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kj4434354-design&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kj4434354-design&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kj4434354-design&theme=tokyonight&no-frame=true&column=4"/>
-</p>
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Science
+- 🐍 Python Development
+- 🚀 Building Useful Projects
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 CONNECT
 
 <p align="center">
-<a href="https://www.linkedin.com/in/madhumitha-jayaraman-64aa24323">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
-</a>
 
 <a href="https://github.com/kj4434354-design">
-<img src="https://skillicons.dev/icons?i=github" height="48"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
+
+<a href="https://www.linkedin.com/in/madhumitha-jayaraman-64aa24323">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </p>
 
 ---
 
-<h3 align="center">
-⭐ "Learning today. Building tomorrow. Growing every day."
-</h3>
+<div align="center">
+
+### 💠 "Artificial Intelligence isn't the future—it's what I'm building toward."
+
+</div>
