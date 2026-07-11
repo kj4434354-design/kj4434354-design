@@ -1,51 +1,63 @@
-<h1 align="center">Hi 👋, I'm Madhumitha J</h1>
+<h1 align="center">Hi, I'm Madhumitha J 👋</h1>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/madhumitha-jayaraman-64aa24323">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="https://github.com/kj4434354-design">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Enthusiast;Machine+Learning+Learner;Python+Developer;Building+Projects+That+Matter" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-Passionate about Artificial Intelligence, Machine Learning, and Data Science.<br>
-I enjoy building practical projects, exploring emerging technologies, and continuously improving my skills.
+---
+
+## About Me
+
+I am passionate about Artificial Intelligence, Machine Learning, and Data Science. I enjoy developing practical AI solutions, exploring emerging technologies, and continuously improving my technical skills through hands-on projects.
+
+## Technical Skills
+
+**Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
+
+**Tools & Technologies**
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+</p>
+
+## Current Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Data Science
+
+## GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kj4434354-design&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kj4434354-design&layout=compact&hide_border=true" height="165"/>
+</p>
+
+## Featured Projects
+
+- 🤖 AI Projects
+- 📊 Data Science Projects
+- 🧠 Machine Learning Models
+- 🐍 Python Applications
+
+## Connect
+
+- GitHub: https://github.com/kj4434354-design
+- LinkedIn: https://www.linkedin.com/in/madhumitha-jayaraman-64aa24323
 
 ---
 
-## 🚀 About Me
-
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 🐍 Building projects with Python
-- 📊 Exploring Data Science and Analytics
-- 🌱 Always learning something new
-
-## 🛠 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,git,github,mysql,vscode" />
-</p>
-
-## 📈 GitHub Statistics
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kj4434354-design&show_icons=true&theme=default&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kj4434354-design&layout=compact&theme=default&hide_border=true"/>
-</p>
-
-## 🌐 Connect
-
-<p>
-<a href="https://github.com/kj4434354-design">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/madhumitha-jayaraman-64aa24323">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-</p>
-
----
-
-> *"Learning consistently. Building with purpose."*
+> *"Building intelligent systems through continuous learning and practical innovation."*
