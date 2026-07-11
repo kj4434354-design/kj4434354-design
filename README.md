@@ -77,11 +77,10 @@ Responsive websites built using HTML, CSS, JavaScript, and modern web technologi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kj4434354-design&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kj4434354-design&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kj4434354-design&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kj4434354-design&theme=tokyonight&no-frame=true&column=7" />
+  <img src="https://komarev.com/ghpvc/?username=kj4434354-design&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 <p align="center">
